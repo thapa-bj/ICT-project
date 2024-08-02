@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "682334233187",
+    "project_id": "ictproject-ef9cb",
+    "storage_bucket": "ictproject-ef9cb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:682334233187:android:03caaa0e802bc111778e56",
+        "android_client_info": {
+          "package_name": "com.example.tracker"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgy_6Mlnd4Q4KpwSKM6Vhky9fOvuiJh9c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
